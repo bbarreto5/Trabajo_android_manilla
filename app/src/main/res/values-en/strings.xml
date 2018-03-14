@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Handles</string>
+    <string name="titulo">XYZ Handles</string>
+    <string name="material">Material</string>
+    <string name="dijes">Keychains</string>
+    <string name="tipo">Type</string>
+    <string name="moneda">Currency</string>
+    <string name="boton">Quote</string>
+    <string name="m_cuero">Leather</string>
+    <string name="m_cuerda">Rope</string>
+    <string name="d_martillo">Hammer</string>
+    <string name="d_ancla">Anchor</string>
+    <string name="op1">Gold, Pink Gold</string>
+    <string name="op2">Silver</string>
+    <string name="op3">Nickel</string>
+    <string name="cantidad">Amount</string>
+    <string name="error1">Enter a number</string>
+    <string name="error2">Enter a number greater than zero</string>
+    <string name="error3">Select a currency type</string>
+    <string name="error4">You can only select one currency type</string>
+</resources>

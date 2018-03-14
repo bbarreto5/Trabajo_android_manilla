@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Manillas</string>
+    <string name="titulo">XYZ Manillas</string>
+    <string name="material">Material</string>
+    <string name="dijes">Dijes</string>
+    <string name="tipo">Tipo</string>
+    <string name="moneda">Moneda</string>
+    <string name="boton">Cotizar</string>
+    <string name="m_cuero">Cuero</string>
+    <string name="m_cuerda" >Cuerda</string>
+    <string name="d_martillo">Martillo</string>
+    <string name="d_ancla">Ancla</string>
+    <string name="op1">Oro, Oro Rosado</string>
+    <string name="op2">Plata</string>
+    <string name="op3">Niquel</string>
+    <string name="cantidad">Cantidad</string>
+    <string-array name="tipo_array">
+        <item>@string/op1</item>
+        <item>@string/op2</item>
+        <item>@string/op3</item>
+    </string-array>
+    <string name="error1">Digite un numero</string>
+    <string name="error2">Digite un numero mayor a cero</string>
+    <string name="error3">Seleccione un tipo de moneda</string>
+    <string name="error4">Solo puede selecionar un tipo de moneda</string>
+</resources>
